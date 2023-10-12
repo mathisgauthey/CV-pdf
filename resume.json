@@ -1,0 +1,268 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Mathis Gauthey",
+    "label": "Ingénieur mécanique",
+    "picture": "resume-picture.jpg",
+    "email": "mathis.gauthey@gmail.com",
+    "phone": "06 38 26 04 03",
+    "url": "https://mathisgauthey.github.io/",
+    "summary": "Recherche un poste d'ingénieur en développement à partir d'Octobre 2023.",
+    "location": {
+      "address": "",
+      "postalCode": "01250",
+      "city": "Saint-Just",
+      "countryCode": "FR",
+      "region": "Rhone-Alpes"
+    },
+    "profiles": [
+      {
+        "network": "dribbble",
+        "username": "My Website",
+        "url": "https://mathisgauthey.github.io/"
+      },
+      {
+        "network": "wpforms",
+        "username": "CV Complet",
+        "url": "https://mathisgauthey.github.io/CV/"
+      },
+      {
+        "network": "jenkins",
+        "username": "My Projects",
+        "url": "https://mathisgauthey.github.io/categories/projects/"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Mathis Gauthey",
+        "url": "https://www.linkedin.com/in/mathisgauthey/"
+      },
+      {
+        "network": "Github",
+        "username": "mathisgauthey",
+        "url": "https://github.com/mathisgauthey"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "🗺️ Voyage linguistique au Royaume-Uni et Irlande",
+      "location": "Angleterre, Pays de Galles, Écosse, Irlande",
+      "description": "Efectis France",
+      "position": "🗺️ Voyage au Royaume-Uni et Irlande",
+      "url": "https://efectis.com/fr/",
+      "startDate": "2022-09-01",
+      "endDate": "2023-10-01",
+      "summary": "Voyage linguistique en Angleterre, Pays de Galles, Écosse et Irlande pour rattraper l'annulation' d'Erasmus à cause du COVID-19.",
+      "highlights": [
+        "Modélisation et réalisation des aménagements nécessaire au départ.",
+        "Dimensionnement, modélisation et réalisation du réseau électrique.",
+        "Création d'un site web avec auto-upload et build en CI sur Github depuis Obsidian vers Hugo.",
+        "Développement des compétences linguistiques en Anglais avec les accents des différentes régions."
+      ]
+    },
+    {
+      "name": "🔬 Stagiaire ingénieur d'études - Efectis France",
+      "location": "Villeurbanne, Auvergne-Rhône-Alpes, France",
+      "description": "Efectis France",
+      "position": "🔬 Stagiaire ingénieur d'études - Efectis France",
+      "url": "https://efectis.com/fr/",
+      "startDate": "2022-02-14",
+      "endDate": "2022-07-29",
+      "summary": "Projet de recherche et innovation sur le comportement des structures soumises à un effet de surpression.",
+      "highlights": [
+        "Rédaction en LaTeX d'un guide méthodologique complet d'analyse d'une structure soumise à une explosion.",
+        "Développement de codes de calculs et de post-traitement sous Python.",
+        "Réalisation d’une feuille Excel de calculs pour traiter les cas courants en élastique ou plastique.",
+        "Développement de codes de calculs éléments finis sous Ansys APDL."
+      ]
+    },
+    {
+      "name": "🏭 Stagiaire ingénieur amélioration continue - Amcor France",
+      "location": "Chalon-sur-Saône, Bourgogne-Franche-Comté, France",
+      "description": "Amcor France",
+      "position": "🏭 Stagiaire ingénieur amélioration continue - Amcor France",
+      "url": "https://www.linkedin.com/in/mathisgauthey/details/experience/1635469608746/single-media-viewer/?type=LINK&profileId=ACoAACwVHDcBXbEjDftgSqnaYcMINyUADzFzDj0",
+      "startDate": "2021-03-01",
+      "endDate": "2021-08-27",
+      "summary": "Projet d'amélioration continu sur un îlot de production.",
+      "highlights": [
+        "Collaboration et travail d'équipe avec les différents secteurs : Maintenance, R&D, Qualité, Production.",
+        "Analyse des causes de dé-cadencement et de perte de TRS.",
+        "Mise en place d'un planning de maintenance préventive et de modes opératoires pour tout un îlot de production.",
+        "Mise en place d'outils d'amélioration continue, de 5S, et formation des opérateurs.",
+        "Résolutions de problèmes opérationnels."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "🎓 Polytech Lyon",
+      "url": "https://polytech.univ-lyon1.fr/formation/cycle-ingenieur/mecanique",
+      "area": "Ingénierie",
+      "studyType": "Diplôme d'ingénieur mécanique",
+      "startDate": "2019",
+      "endDate": "2022",
+      "score": "Diplôme obtenu. Classement : 19/45",
+      "courses": [
+
+      ]
+    },
+    {
+      "institution": "👨‍🔬 Polytech Lyon",
+      "url": "https://polytech.univ-lyon1.fr/formation/peip",
+      "area": "Mathématiques",
+      "studyType": "Classes préparatoires",
+      "startDate": "2017",
+      "endDate": "2019",
+      "score": "PeiP validée. Classement national : 697/1618",
+      "courses": [
+
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "⌨️ Développement",
+      "level": "Bonnes pratiques",
+      "keywords": [
+        "C",
+        "C++",
+        "Python",
+        "Matlab"
+      ]
+    },
+    {
+      "name": "📏 CAO",
+      "level": "Plusieurs projets",
+      "keywords": [
+        "Creo",
+        "Catia V5",
+        "OnShape"
+      ]
+    },
+    {
+      "name": "⏳ Simulation numérique",
+      "level": "PFE sur Adams, SFE sur Ansys APDL",
+      "keywords": [
+        "Ansys APDL",
+        "Adams",
+        "Patran Nastran",
+        "Ansys Fluent"
+      ]
+    },
+    {
+      "name": "💻 Informatique et bureautique",
+      "level": "Grande expérience personnelle",
+      "keywords": [
+        "LaTeX",
+        "Microsoft Office",
+        "Bash",
+        "Batch",
+        "Powershell"
+      ]
+    },
+    {
+      "name": "✅ Organisation",
+      "level": "Lecture sur la productivité",
+      "keywords": [
+        "GTD (Getting Things Done)",
+        "P.A.R.A.",
+        "Atomic Habits"
+      ]
+    },
+    {
+      "name": "👥 Travail d'équipes",
+      "level": "Nombreux projets réalisés en équipe",
+      "keywords": [
+        "Agile",
+        "Kanban",
+        "Scrum",
+        "Git Workflow",
+        "Outils clouds"
+      ]
+    },
+    {
+      "name": "🚗 Permis",
+      "level": "Validé",
+      "keywords": [
+        "A (Moto)",
+        "B (Voiture)"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "🇫🇷 Français",
+      "fluency": "Langue natale"
+    },
+    {
+      "language": "🇬🇧 English",
+      "fluency": "Fluent : TOEIC C1 965/990"
+    },
+    {
+      "language": "🇪🇸 Español",
+      "fluency": "A2-B1"
+    }
+  ],
+  "interests": [
+    {
+      "name": "🥾 Randonnée et course à pied",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "💪 Callisthénie",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "🧳 Voyage",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "💻 Informatique & high-tech",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "🎮 Gaming",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "🍿 Séries & films",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "📕 Lecture",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "🎵 Musique",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "🎨 Art & DIY",
+      "keywords": [
+
+      ]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
