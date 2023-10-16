@@ -22,24 +22,9 @@
         "url": "https://mathisgauthey.github.io/"
       },
       {
-        "network": "wpforms",
-        "username": "CV Complet",
-        "url": "https://mathisgauthey.github.io/CV/"
-      },
-      {
-        "network": "jenkins",
-        "username": "My Projects",
-        "url": "https://mathisgauthey.github.io/categories/projects/"
-      },
-      {
         "network": "LinkedIn",
         "username": "Mathis Gauthey",
         "url": "https://www.linkedin.com/in/mathisgauthey/"
-      },
-      {
-        "network": "Github",
-        "username": "mathisgauthey",
-        "url": "https://github.com/mathisgauthey"
       }
     ]
   },
@@ -52,23 +37,22 @@
       "url": "https://efectis.com/fr/",
       "startDate": "2022-09-01",
       "endDate": "2023-10-01",
-      "summary": "Voyage linguistique en Angleterre, Pays de Galles, Écosse et Irlande pour rattraper l'annulation' d'Erasmus à cause du COVID-19.",
+      "summary": "Développement des compétences linguistiques en Anglais en lieu et place d'un Erasmus période COVID-19.",
       "highlights": [
-        "Modélisation et réalisation des aménagements nécessaire au départ.",
+        "Modélisation et réalisation des aménagements d'un van.",
         "Dimensionnement, modélisation et réalisation du réseau électrique.",
-        "Création d'un site web avec auto-upload et build en CI sur Github depuis Obsidian vers Hugo.",
-        "Développement des compétences linguistiques en Anglais avec les accents des différentes régions."
+        "Création d'un site web Hugo avec auto-upload depuis Obsidian et intégration continue sur Github."
       ]
     },
     {
-      "name": "🔬 Stagiaire ingénieur d'études - Efectis France",
+      "name": "🔬 Stage ingénieur d'études",
       "location": "Villeurbanne, Auvergne-Rhône-Alpes, France",
       "description": "Efectis France",
-      "position": "🔬 Stagiaire ingénieur d'études - Efectis France",
+      "position": "🔬 Stage ingénieur d'études",
       "url": "https://efectis.com/fr/",
       "startDate": "2022-02-14",
       "endDate": "2022-07-29",
-      "summary": "Projet de recherche et innovation sur le comportement des structures soumises à un effet de surpression.",
+      "summary": "Projet de recherche et innovation sur le comportement des structures soumises à un effet de surpression à Efectis.",
       "highlights": [
         "Rédaction en LaTeX d'un guide méthodologique complet d'analyse d'une structure soumise à une explosion.",
         "Développement de codes de calculs et de post-traitement sous Python.",
@@ -77,14 +61,14 @@
       ]
     },
     {
-      "name": "🏭 Stagiaire ingénieur amélioration continue - Amcor France",
+      "name": "🏭 Stage ingénieur amélioration continue",
       "location": "Chalon-sur-Saône, Bourgogne-Franche-Comté, France",
       "description": "Amcor France",
-      "position": "🏭 Stagiaire ingénieur amélioration continue - Amcor France",
+      "position": "🏭 Stage ingénieur amélioration continue",
       "url": "https://www.linkedin.com/in/mathisgauthey/details/experience/1635469608746/single-media-viewer/?type=LINK&profileId=ACoAACwVHDcBXbEjDftgSqnaYcMINyUADzFzDj0",
       "startDate": "2021-03-01",
       "endDate": "2021-08-27",
-      "summary": "Projet d'amélioration continu sur un îlot de production.",
+      "summary": "Projet d'amélioration continu sur un îlot de production à Amcor.",
       "highlights": [
         "Collaboration et travail d'équipe avec les différents secteurs : Maintenance, R&D, Qualité, Production.",
         "Analyse des causes de dé-cadencement et de perte de TRS.",
@@ -142,7 +126,7 @@
     },
     {
       "name": "⏳ Simulation numérique",
-      "level": "PFE sur Adams, SFE sur Ansys APDL",
+      "level": "PFE sur Adams et CatiaV5, SFE sur Ansys APDL",
       "keywords": [
         "Ansys APDL",
         "Adams",
