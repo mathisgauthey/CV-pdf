@@ -8,11 +8,11 @@ const filePath = path.resolve(__dirname, "index.html");
     const puppeteerVersion = require('puppeteer/package.json').version;
     console.log(`Using Puppeteer version ${puppeteerVersion}`);
     console.log(`This is the path: ${filePath}`)
-    
+
     const browser = await puppeteer.launch({
       product: 'firefox',
-      headless: false, // Use true to run headless, not 'new'
-      dumpio: false
+      headless: true, // Use true to run headless, not 'new'
+      dumpio: false // Error logging
     });
     const page = await browser.newPage();
     var contentHtml = fs.readFileSync(`${filePath}`, 'utf8');
