@@ -70,10 +70,10 @@
       "endDate": "2021-08-27",
       "summary": "Projet d'amélioration continu sur un îlot de production à Amcor.",
       "highlights": [
-        "Collaboration et travail d'équipe avec les différents secteurs : Maintenance, R&D, Qualité, Production.",
+        "Collaboration et travail d'équipe avec les différents secteurs.",
         "Analyse des causes de dé-cadencement et de perte de TRS.",
         "Mise en place d'un planning de maintenance préventive et de modes opératoires pour tout un îlot de production.",
-        "Mise en place d'outils d'amélioration continue, de 5S, et formation des opérateurs.",
+        "Mise en place d'outils d'amélioration continue, de 5S, et formation.",
         "Résolutions de problèmes opérationnels."
       ]
     }
@@ -83,7 +83,7 @@
       "institution": "🎓 Polytech Lyon",
       "url": "https://polytech.univ-lyon1.fr/formation/cycle-ingenieur/mecanique",
       "area": "Ingénierie",
-      "studyType": "Diplôme d'ingénieur mécanique",
+      "studyType": "Diplôme d'ingénieur mécanique en simulation numérique",
       "startDate": "2019",
       "endDate": "2022",
       "score": "Diplôme obtenu. Classement : 19/45",
@@ -111,6 +111,7 @@
       "keywords": [
         "C",
         "C++",
+        "Java",
         "Python",
         "Matlab"
       ]
@@ -119,9 +120,9 @@
       "name": "📏 CAO",
       "level": "Plusieurs projets",
       "keywords": [
-        "Creo",
         "Catia V5",
-        "OnShape"
+        "OnShape",
+        "Creo"
       ]
     },
     {
@@ -138,11 +139,11 @@
       "name": "💻 Informatique et bureautique",
       "level": "Grande expérience personnelle",
       "keywords": [
-        "LaTeX",
-        "Microsoft Office",
+        "Linux Ubuntu",
         "Bash",
-        "Batch",
-        "Powershell"
+        "WSL2",
+        "LaTeX",
+        "Microsoft Office"
       ]
     },
     {
@@ -151,7 +152,9 @@
       "keywords": [
         "GTD (Getting Things Done)",
         "P.A.R.A.",
-        "Atomic Habits"
+        "Atomic Habits",
+        "Power of Habits",
+        "Deep Work"
       ]
     },
     {
@@ -163,6 +166,14 @@
         "Scrum",
         "Git Workflow",
         "Outils clouds"
+      ]
+    },
+    {
+      "name": "📅 Gestion de projets",
+      "level": "Intermédiaire : Chef de projet pendant les projets au cours de mes études",
+      "keywords": [
+        "Gantt",
+        "Jira"
       ]
     },
     {
@@ -182,15 +193,11 @@
     {
       "language": "🇬🇧 English",
       "fluency": "Fluent : TOEIC C1 965/990"
-    },
-    {
-      "language": "🇪🇸 Español",
-      "fluency": "A2-B1"
     }
   ],
   "interests": [
     {
-      "name": "🥾 Randonnée et course à pied",
+      "name": "🥾 Randonnée & course à pied",
       "keywords": [
 
       ]
