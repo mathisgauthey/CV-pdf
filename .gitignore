@@ -1,0 +1,6 @@
+# Local server build
+public/
+
+# Modules Node
+node_modules/
+package-lock.json
